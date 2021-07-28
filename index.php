@@ -14,7 +14,7 @@
   <head>  </head>
 
   <body>
-    <h1>Привет, Heroku!!!</h1>
+    <h1>Hello to you stranger</h1>
 
   </body>
 </html>
